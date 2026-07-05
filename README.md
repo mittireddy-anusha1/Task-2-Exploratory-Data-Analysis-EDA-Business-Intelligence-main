@@ -149,7 +149,7 @@ Through this project, you will learn:
 
 ## 👩‍💻 Author
 
-**Anitha Pappala**
+**Anusha Mittireddy**
 
 GitHub: https://github.com/anithapappala20-ui
 
