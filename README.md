@@ -151,7 +151,7 @@ Through this project, you will learn:
 
 **Anusha Mittireddy**
 
-GitHub: https://github.com/anithapappala20-ui
+GitHub: https://github.com/mittireddy-anusha1
 
 ---
 
